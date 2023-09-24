@@ -1,0 +1,9 @@
+[2023-08-18]
+Added:
+ + README file
+ + counsel-projectile
+ + Rust lang support
+
+Changed:
+ + font and fontsize
+ + yas-snippets and abbrev_defs location are in the extensions folder now.

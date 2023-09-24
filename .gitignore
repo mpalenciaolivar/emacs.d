@@ -1,0 +1,61 @@
+# Folders
+.cache/*
+.lsp-session-v1
+auto-save-list/*
+eshell/*
+server/*
+straight/*
+temp/
+transient/*
+url/*
+
+# Files
+history
+org-clock-save.el
+projectile.cache
+projectile-bookmarks.eld
+recentf
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory
+/server/
+
+# projectiles files
+.projectile
+
+# directory configuration
+.dir-locals.el
