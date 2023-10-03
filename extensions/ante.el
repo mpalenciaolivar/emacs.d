@@ -1,6 +1,7 @@
 ;;-----------------------------------------------------------------------
 ;; ANTE
 ;;-----------------------------------------------------------------------
+;; Warning: emacs must load this file first for everything to work properly
 
 ;; loads functions
 (mapc 'load (file-expand-wildcards "~/.emacs.d/extensions/functions/*el"))
